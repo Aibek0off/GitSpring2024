@@ -1,7 +1,7 @@
 package sports;
 
-public class Box {
+public class UFS {
     public static void main(String[] args) {
-        System.out.println("Box");
+        System.out.println("UFS");
     }
 }
